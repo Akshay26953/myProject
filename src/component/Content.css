@@ -1,0 +1,11 @@
+
+h1 {
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 600;
+    color: white;
+}
+.btn1{
+    display: flex;
+    justify-content: center;
+}

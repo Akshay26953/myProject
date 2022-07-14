@@ -1,0 +1,25 @@
+.cont90 {
+    width: 90%;
+}
+.flex {
+    display: flex;
+}
+.block {
+    display: block;
+}
+.hc {
+    justify-content: center;
+}
+.vc {
+    align-items: center;
+}
+.tac {
+    text-align: center;
+}
+.mxa {
+    margin-left: auto;
+    margin-right: auto;
+}
+.bet {
+    justify-content: space-between;
+}

@@ -1,0 +1,40 @@
+
+.topNav {
+  p {
+    margin: 0;
+  }
+  .mode-btn {
+    width: 20px;
+    height: 20px;
+    border-style: none;
+    border-radius: 50%;
+    margin: 5px 10px;
+    border: 1px solid gray;
+    &:hover {
+      box-shadow: 0 0 5px black;
+    }
+  }
+}
+.navbar {
+  .navLogo {
+    font-size: 30px;
+    font-family: "Gentium Book Plus", serif;
+    margin: 5px 20px 5px 0;
+    padding: 0;
+  }
+  .navMenu {
+    height: 100%;
+    ul {
+        margin-left: 20px;
+      li {
+        width: 150px;
+        // height: 100%;
+        // text-align: center;
+        &:hover{
+            // border-radius: 10px;
+            font-weight: bold;
+          }
+      }
+    }
+  }
+}
